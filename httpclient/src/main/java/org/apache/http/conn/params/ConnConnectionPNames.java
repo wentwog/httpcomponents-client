@@ -31,7 +31,7 @@ package org.apache.http.conn.params;
  *
  * @since 4.0
  *
- * @deprecated (4.1) use custom {@link
+ * @deprecated (4.1) use //todo anak MC custom {@link
  *   org.apache.http.impl.conn.DefaultHttpResponseParser} implementation.
  */
 @Deprecated
@@ -54,7 +54,7 @@ public interface ConnConnectionPNames {
      * Use {@link java.lang.Integer#MAX_VALUE} for unlimited number.
      * </p>
      *
-     * @deprecated (4.1) Use custom {@link
+     * @deprecated (4.1) Use custom //todo anak MC {@link
      *   org.apache.http.impl.conn.DefaultHttpResponseParser} implementation
      */
     @Deprecated
